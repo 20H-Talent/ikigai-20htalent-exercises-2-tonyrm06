@@ -1,0 +1,10 @@
+.main-heading {
+    text-shadow: 0 0 5px #be7b31;
+}
+.title {
+    text-shadow: 1px 3px 0 #e59740;
+}
+.main-header {
+    box-shadow: 0 2px 15px #aaa, inset 0 0 60px 5px firebrick;
+
+}

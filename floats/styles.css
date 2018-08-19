@@ -1,0 +1,11 @@
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .content-lodging {
+    float: right;
+}
+.content-traveling {
+    float: left;
+}

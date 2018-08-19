@@ -1,0 +1,14 @@
+@media (max-width: 1020px) {
+    .main-header {
+        background-color: tomato;
+        color: white;
+    }
+}
+@media (max-width: 768px) {
+    .title {
+        font-size: 1.4rem;
+    }
+    .h1 {
+        font-size: 5rem;
+    }
+}
